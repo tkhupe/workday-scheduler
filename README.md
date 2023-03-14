@@ -19,7 +19,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-![alt text](assets/images/screenshot.png)
+![alt text](Assets/images/screenshot.png)
 
 https://tkhupe.github.io/workday-scheduler/
 
